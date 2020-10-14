@@ -1,0 +1,29 @@
+main {
+    display: flex;
+    flex-direction: column;
+    height: 56.9vh;
+    justify-content: space-around;
+    align-items: center;}
+
+.sessao-home-s {
+    width: 1024px;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;}
+
+section.sessao-sub-cx {
+    display: flex;
+    width: 1024px;
+    justify-content: space-between;
+    align-items: center;}
+
+.caixa-text {
+    width: 400px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    height: 22vh;
+    align-items: start;}
+
+.caixa-text > img{width: 100px; height: 100px;}

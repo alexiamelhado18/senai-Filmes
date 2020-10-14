@@ -1,0 +1,24 @@
+footer {
+    display: flex;
+    background: #F6511D;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+footer hr {
+    margin-right: 2em;
+    margin-left: 2em;
+    height: 200px;
+    border: 1px solid #fff;
+}
+
+.info-contact{
+    width: 451px;
+    height: 147px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #fff;}
+
+.div-image-films{height: 147px;}

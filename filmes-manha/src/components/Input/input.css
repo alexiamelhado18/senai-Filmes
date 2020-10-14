@@ -1,0 +1,13 @@
+label {
+    display: flex;
+    flex-direction: column;
+    height: 9vh;
+    justify-content: space-between;}
+
+input {
+    border: 1px solid;
+    border-radius: 1px;
+    outline: none;
+    font-size: 18px;
+    width: 400px;
+    height: 58px;}

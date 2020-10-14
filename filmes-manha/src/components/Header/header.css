@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: center;
+    background: #9BD2DE;
+    padding-bottom: 1em;}
+
+
+#nav-container > div{
+    width: 1024px;
+    height:164px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav-container div > ul {
+    display: flex;
+    list-style-type: none;
+    width: 45vh;
+    justify-content: space-around;
+}
+
+.options-menu{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;}

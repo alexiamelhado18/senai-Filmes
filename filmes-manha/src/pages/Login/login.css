@@ -1,0 +1,19 @@
+.central-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 56.8vh;}
+
+.sessao-div-login {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 42vh;
+    align-items: center;}
+
+.divisao-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 30vh;}
