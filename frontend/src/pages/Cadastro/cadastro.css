@@ -1,0 +1,32 @@
+section.sessao-cadastro-usuario {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 58vh;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+form {
+    height: 47vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+select {
+    border: 1px solid;
+    border-radius: 1px;
+    outline: none;
+    font-size: 18px;
+    width: 400px;
+    height: 58px;
+}
+.sessao-btn {
+    display: flex;
+    width: 28vw;
+    align-items: center;
+    justify-content: space-between;
+}
