@@ -4,7 +4,8 @@ label {
     height: 9vh;
     justify-content: space-between;}
 
-input {
+.input {
+    padding-left: 1em;
     border: 1px solid;
     border-radius: 1px;
     outline: none;

@@ -1,0 +1,31 @@
+.title-genero{
+display: flex;
+flex-direction: column;
+height:14vh;
+justify-content: space-between;
+align-items: center;}
+
+.title-genero > img {width: 90px;}
+
+.main-genero{
+    display: flex;
+    align-items: center;
+    height: 53vh;
+    justify-content: space-around;}
+
+
+.section-genero{
+    width: 1024px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 16vh;}
+
+tr {
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    justify-content: space-between;}
+
+.form-cadastro{width: 1024px;flex-direction: row;height: 9vh;}
