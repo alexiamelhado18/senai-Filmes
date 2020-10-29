@@ -3,7 +3,8 @@ main {
     flex-direction: column;
     height: 56.9vh;
     justify-content: space-around;
-    align-items: center;}
+    align-items: center;
+    margin-bottom: 3em;}
 
 .sessao-home-s {
     width: 1024px;
